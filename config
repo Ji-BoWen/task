@@ -1,0 +1,10 @@
+[core]
+	bare = false
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+	logallrefupdates = true
+[gui]
+	wmstate = normal
+	geometry = 1061x563+32+32 233 255
